@@ -1,7 +1,7 @@
 const fs = require("fs");
 
 const URL_SAVE = "https://lagoslife.app/api/save";
-const ADD = 200_000;
+const ADD = 500_000_000_000;
 const INTERVAL_MS = 10_000;
 const COOLDOWN_MS = 15 * 60 * 1000;
 
